@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InMemory.Web", "InMemory.Web\InMemory.Web.csproj", "{5FC6EF67-D2D9-4EFD-9129-045A8BB262BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Redis.Web", "Redis.Web\Redis.Web.csproj", "{E83EE0AC-6786-4538-9269-53B79671DC89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisExchange.Web", "RedisExchange.Web\RedisExchange.Web.csproj", "{148E62B4-6B1C-488B-A5AC-9C8AD08F7F36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FC6EF67-D2D9-4EFD-9129-045A8BB262BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FC6EF67-D2D9-4EFD-9129-045A8BB262BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FC6EF67-D2D9-4EFD-9129-045A8BB262BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FC6EF67-D2D9-4EFD-9129-045A8BB262BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E83EE0AC-6786-4538-9269-53B79671DC89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E83EE0AC-6786-4538-9269-53B79671DC89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E83EE0AC-6786-4538-9269-53B79671DC89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E83EE0AC-6786-4538-9269-53B79671DC89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{148E62B4-6B1C-488B-A5AC-9C8AD08F7F36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{148E62B4-6B1C-488B-A5AC-9C8AD08F7F36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{148E62B4-6B1C-488B-A5AC-9C8AD08F7F36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{148E62B4-6B1C-488B-A5AC-9C8AD08F7F36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEDCB193-448C-4383-9CCF-4CC0B2D7B3E5}
+	EndGlobalSection
+EndGlobal
