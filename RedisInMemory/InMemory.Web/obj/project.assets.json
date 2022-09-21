@@ -6210,11 +6210,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ekizn\\source\\repos\\RedisInMemory\\InMemory.Web\\InMemory.Web.csproj",
+      "projectUniqueName": "C:\\Users\\ekizn\\OneDrive\\Belgeler\\GitHub\\RedisInMemory\\RedisInMemory\\InMemory.Web\\InMemory.Web.csproj",
       "projectName": "InMemory.Web",
-      "projectPath": "C:\\Users\\ekizn\\source\\repos\\RedisInMemory\\InMemory.Web\\InMemory.Web.csproj",
+      "projectPath": "C:\\Users\\ekizn\\OneDrive\\Belgeler\\GitHub\\RedisInMemory\\RedisInMemory\\InMemory.Web\\InMemory.Web.csproj",
       "packagesPath": "C:\\Users\\ekizn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ekizn\\source\\repos\\RedisInMemory\\InMemory.Web\\obj\\",
+      "outputPath": "C:\\Users\\ekizn\\OneDrive\\Belgeler\\GitHub\\RedisInMemory\\RedisInMemory\\InMemory.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ekizn\\AppData\\Roaming\\NuGet\\NuGet.Config",

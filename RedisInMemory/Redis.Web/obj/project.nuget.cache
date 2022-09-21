@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WUg+TAG/gzkRjc/u/jSGove4V+A8MpTQdcapY/RB/3tXO4tVN1eOCe0nZ3/tFOyKow2jLZW+S+ObcqOgxMboxw==",
+  "dgSpecHash": "ypdgH7jum1tkmhLPKZc6GjBl9Xpr5ys+0MN+eMnJd5SiEXnEZ9yNB0y8+egASPNxl5GU+rzdvYxiz5euuFLPEw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ekizn\\source\\repos\\RedisInMemory\\Redis.Web\\Redis.Web.csproj",
+  "projectFilePath": "C:\\Users\\ekizn\\OneDrive\\Belgeler\\GitHub\\RedisInMemory\\RedisInMemory\\Redis.Web\\Redis.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ekizn\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\ekizn\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\3.1.27\\microsoft.aspnetcore.mvc.razor.extensions.3.1.27.nupkg.sha512",

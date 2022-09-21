@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ekizn\\source\\repos\\RedisInMemory\\RedisExchange.Web\\RedisExchange.Web.csproj": {}
+    "C:\\Users\\ekizn\\OneDrive\\Belgeler\\GitHub\\RedisInMemory\\RedisInMemory\\RedisExchange.Web\\RedisExchange.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ekizn\\source\\repos\\RedisInMemory\\RedisExchange.Web\\RedisExchange.Web.csproj": {
+    "C:\\Users\\ekizn\\OneDrive\\Belgeler\\GitHub\\RedisInMemory\\RedisInMemory\\RedisExchange.Web\\RedisExchange.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ekizn\\source\\repos\\RedisInMemory\\RedisExchange.Web\\RedisExchange.Web.csproj",
+        "projectUniqueName": "C:\\Users\\ekizn\\OneDrive\\Belgeler\\GitHub\\RedisInMemory\\RedisInMemory\\RedisExchange.Web\\RedisExchange.Web.csproj",
         "projectName": "RedisExchange.Web",
-        "projectPath": "C:\\Users\\ekizn\\source\\repos\\RedisInMemory\\RedisExchange.Web\\RedisExchange.Web.csproj",
+        "projectPath": "C:\\Users\\ekizn\\OneDrive\\Belgeler\\GitHub\\RedisInMemory\\RedisInMemory\\RedisExchange.Web\\RedisExchange.Web.csproj",
         "packagesPath": "C:\\Users\\ekizn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ekizn\\source\\repos\\RedisInMemory\\RedisExchange.Web\\obj\\",
+        "outputPath": "C:\\Users\\ekizn\\OneDrive\\Belgeler\\GitHub\\RedisInMemory\\RedisInMemory\\RedisExchange.Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ekizn\\AppData\\Roaming\\NuGet\\NuGet.Config",
